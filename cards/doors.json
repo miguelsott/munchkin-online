@@ -1,0 +1,20 @@
+{
+    "doors":[
+        {
+            "category": "monster",
+            "name": "bigfoot",
+            "level": 12,
+            "description": "+3 against dwarves and halflings",
+            "bad stuff": "Stomps you flat and eats your hat. Lose the Headgear you were wearing",
+            "levels": 1,
+            "treasures": 3,
+            "image": "" 
+        },
+        {
+            "category": "curse",
+            "name": "change sex",
+            "description": "-5 to your next combat due to distraction. After that, there is no further penalty. However, the change is permanent",
+            "image": ""
+        }
+    ]
+}
